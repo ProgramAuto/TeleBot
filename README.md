@@ -13,4 +13,4 @@ https://t.me/ProgrammAutoo_bot
 
 2°) É necessário conversar com o bot em privado com o link acima, e inserir o comando "/start" para inicia-lo.
 
-3°) Inserir o comando "/bot" no grupo programauto ou digitar qualquer mensagem no privado do Bot já "startado".
+3°) Inserir o comando "/bot" no grupo programauto ou digitar qualquer mensagem no privado do Bot já inciado.
